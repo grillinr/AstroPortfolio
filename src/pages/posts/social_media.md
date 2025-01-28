@@ -1,11 +1,11 @@
 ---
-title: "My First Astro Post"
-date: "2022-01-01"
+title: "Reflecting on the State of Social Media"
+date: "2025-01-27"
 
 layout: ../../layouts/PostLayout.astro
-description: "This is my first Astro post. Stay tuned for more exciting content coming soon!"
+description: "My thoughts on the current landscape of social platforms"
 
-img_path : "/paper.png"
+img_path: "/paper.png"
 img_alt: "Insert image description here"
 ---
 

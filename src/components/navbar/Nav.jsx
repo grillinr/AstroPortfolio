@@ -41,9 +41,9 @@ export default function Nav({ posts }) {
           >
             <i className="fas fa-download mr-2"></i>
             <span className="hidden lg:inline-block font-medium">
-              Download CV
+              Download Resume
             </span>
-            <span className="lg:hidden font-medium">CV</span>
+            <span className="lg:hidden font-medium">Resume</span>
           </a>
 
           <div className="inline-flex lg:hidden text-secondary dark:text-dk-secondary">
