@@ -5,7 +5,7 @@ date: "2025-01-27"
 layout: ../../layouts/PostLayout.astro
 description: "My thoughts on the current landscape of social platforms"
 
-img_path: "/paper.png"
+img_path: "paper.png"
 img_alt: "Insert image description here"
 ---
 
